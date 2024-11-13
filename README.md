@@ -17,8 +17,4 @@ The WireShark lab was aimed to get the students to a foundational understanding 
 - WireShark
 
 ## Steps
-
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-
+Download the CYB107_Lab17_Lewis.docx as a raw file to see the lab.
